@@ -1,1 +1,1 @@
-#polatlar oto parça 
+polatlarotoparca
